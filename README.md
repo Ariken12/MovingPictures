@@ -2,6 +2,12 @@
 
 Project was started by me as student of middle shool and I improved the code along with my knowledge.
 
+# Explanation to main file
+
+In main file example of conception this classes.
+
+Following examples contains "object" that moving if it will punched every frame in random direction.
+
 # Example of output
 
 [![square](https://i.gyazo.com/5c5dbcf34cd99d6faa953bcfec9583d3.gif)](https://gyazo.com/5c5dbcf34cd99d6faa953bcfec9583d3)
